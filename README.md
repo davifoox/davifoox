@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davifoox
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Code Architecture
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Indie Game Development and AI
+- 🌱 I’m currently learning Audio Analysis
 - 📫 How to reach me davifoox@gmail.com
 
 <!---
